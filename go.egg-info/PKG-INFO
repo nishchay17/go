@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: go
+Version: 0.1.0
+Summary: A dir utility package
+Home-page: UNKNOWN
+Author: Nishchay Trivedi
+Author-email: nishchay13971@gmail.com
+License: UNKNOWN
+Description: welcome to go directory utility
+        Available commands: 
+        add - To add current directory to database 
+            - example: go add <name>
+        all - To show all directory stored in database
+            - example: go all
+        go  - To go to the directory associated to the name
+            - example: go <name>
+        remove - To remove directory from database
+               - example: go remove <name>
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

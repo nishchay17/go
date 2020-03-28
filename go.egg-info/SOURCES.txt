@@ -1,0 +1,12 @@
+README.md
+go
+setup.py
+go/__init__.py
+go/__main__.py
+go/db.py
+go/go.py
+go.egg-info/PKG-INFO
+go.egg-info/SOURCES.txt
+go.egg-info/dependency_links.txt
+go.egg-info/entry_points.txt
+go.egg-info/top_level.txt
